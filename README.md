@@ -72,7 +72,7 @@ Copy the directories under [`skills/`](skills/) into your agent's skills directo
 
 ## Contributing
 
-This repository is generated. The skills live in [`skills/`](https://github.com/emdash-cms/emdash/tree/main/skills) in the [EmDash monorepo](https://github.com/emdash-cms/emdash) and sync here on every change to `main`, replacing anything edited directly. Open issues and pull requests there.
+This repository is generated. The skills live in [`skills/`](https://github.com/emdash-cms/emdash/tree/main/skills) in the [EmDash monorepo](https://github.com/emdash-cms/emdash) and sync here with each EmDash release, replacing anything edited directly. Open issues and pull requests there.
 
 ## License
 
