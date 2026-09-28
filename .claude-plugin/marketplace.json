@@ -1,0 +1,14 @@
+{
+  "name": "emdash",
+  "owner": { "name": "EmDash", "url": "https://emdashcms.com" },
+  "metadata": {
+    "description": "Agent skills for EmDash CMS."
+  },
+  "plugins": [
+    {
+      "name": "emdash",
+      "source": "./",
+      "description": "Agent skills for building sites, plugins, and WordPress migrations with EmDash CMS."
+    }
+  ]
+}

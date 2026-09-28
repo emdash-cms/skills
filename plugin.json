@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "emdash",
+  "description": "Agent skills for building sites, plugins, and WordPress migrations with EmDash CMS.",
+  "author": { "name": "EmDash", "url": "https://emdashcms.com" },
+  "homepage": "https://docs.emdashcms.com",
+  "repository": "https://github.com/emdash-cms/skills",
+  "license": "MIT",
+  "keywords": ["emdash", "cms", "astro", "cloudflare", "wordpress"]
+}
